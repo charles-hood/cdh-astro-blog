@@ -26,6 +26,13 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
     <section id="hero" class="pt-8 pb-6">
       <div class="flex flex-col sm:flex-row sm:items-start sm:gap-8">
         <div class="flex-1">
+          <!-- Mobile: Float image right, Desktop: Keep current layout -->
+          <img 
+            src="/cdh-bio-pic-LI.jpeg" 
+            alt="Charles Hood" 
+            class="float-right ml-4 mb-4 w-[150px] h-[150px] rounded-full object-cover shadow-lg border-4 border-accent/20 sm:hidden"
+          />
+          
           <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
             Hey there!
           </h1>
@@ -43,13 +50,6 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
             />
             <span class="sr-only">RSS Feed</span>
           </a>
-
-          <!-- Mobile: Float image right, Desktop: Keep current layout -->
-          <img 
-            src="/cdh-bio-pic-LI.jpeg" 
-            alt="Charles Hood" 
-            class="float-right ml-4 mb-4 w-[150px] h-[150px] rounded-full object-cover shadow-lg border-4 border-accent/20 sm:hidden"
-          />
 
           <p>
             Welcome to my personal web log where I write about tech, tunes, and travel!
