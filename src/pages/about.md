@@ -18,7 +18,7 @@ title: "About Me 🧑‍💻"
 Hey there! 👋 I'm a tech enthusiast in my 50s, living in either "Atlanta" or Canton, GA — depending on who's asking. My passions include tech, live music, and exploring new places through travel.
 
 ## Tech Treks 💻
-As a tech enthusiast, I love diving into the latest gadgets, coding projects, and exploring the ever-evolving tech landscape. From tinkering with new software to embracing the latest tech trends, I'm always up for a digital adventure.
+As a tech enthusiast, I love diving into the latest gadgets, coding projects, and exploring the ever-evolving tech landscape. From tinkering with new software to embracing the latest tech trends, I'm always game for whatever comes next.
 
 ## Live Music 🎵
 **Small venues, big passion.** There's something truly magical about experiencing music in a space where the energy is palpable and the connection between artists and audience is undeniable. That's where I thrive.
