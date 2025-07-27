@@ -14,7 +14,7 @@ tags:
 
 <div style="float: right; margin: 0 0 15px 20px; width: 200px;">
   <picture>
-    <source srcset="/blog-images/2025-01-27--blog-migration-journey/media/astro-logo-dark.png" media="(prefers-color-scheme: dark)">
+    <source srcset="/blog-images/2025-01-27--blog-migration-journey/media/astro-logo-dark.svg" media="(prefers-color-scheme: dark)">
     <img src="/blog-images/2025-01-27--blog-migration-journey/media/astro-logo-light-gradient.svg" alt="Astro - The web framework for content-driven websites" style="width: 100%; border-radius: 8px;">
   </picture>
 </div>
