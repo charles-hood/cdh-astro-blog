@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About Me 🧑‍💻"
+title: "About Me"
 ---
 
 <img src="/cdh-hiking-az.jpg" alt="Charles Hood hiking in Arizona" class="about-bio-image" style="float: right; margin: -60px 0 10px 10px; border-radius: 50%; width: 150px; height: 150px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
