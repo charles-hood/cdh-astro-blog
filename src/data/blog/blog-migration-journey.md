@@ -20,7 +20,7 @@ Well, it finally happened. After months of my blog sitting there looking a bit s
 
 ## The Problem with My Old Setup
 
-Don't get me wrong—Gatsby served me well for a couple of years. The Lumen theme was clean, my content was organized, and everything *worked*. But here's the thing: it felt like maintaining a vintage car. Sure, it looked good, but every time I wanted to make a simple change or add a new post, I'd run into some complexity that made me postpone the update.
+Don't get me wrong, Gatsby served me well for a couple of years. The Lumen theme was clean, my content was organized, and everything *worked*. But here's the thing: it felt like maintaining a vintage car. Sure, it looked good, but every time I wanted to make a simple change or add a new post, I'd run into some complexity that made me postpone the update.
 
 The build times were getting slower, the dependency tree was getting more complex, and honestly? I just wasn't excited about working on it anymore. You know that feeling when a project starts to feel like work instead of fun? That was my Gatsby blog.
 
@@ -30,7 +30,7 @@ I'd been hearing buzz about Astro in the tech community for a while. The promise
 
 As someone who writes about tech for regular people, I love tools that prioritize performance and simplicity. Astro's approach of rendering everything to static HTML by default, with the option to add interactivity only where needed, just made sense.
 
-Plus, the AstroPaper theme looked clean and modern—exactly the aesthetic I was going for.
+Plus, the AstroPaper theme looked clean and modern. Exactly the aesthetic I was going for.
 
 ## The Migration Process: Easier Than Expected
 
@@ -59,13 +59,13 @@ Here's the thing that surprised me most: the migration was actually straightforw
 The build times are *significantly* faster. What used to take minutes now takes seconds. And the site itself? Lightning fast. Astro's static generation means visitors get content immediately.
 
 ### Simplicity 
-Adding a new post is now as simple as dropping a Markdown file in a folder. No complex GraphQL queries, no wrestling with gatsby-config.js—just write and publish.
+Adding a new post is now as simple as dropping a Markdown file in a folder. No complex GraphQL queries, no wrestling with gatsby-config.js. Just write and publish.
 
 ### Modern Development Experience
 TypeScript out of the box, excellent VS Code integration, and a development server that actually feels responsive. It's a joy to work with.
 
 ### Deployment Magic
-The whole thing deploys automatically to Netlify whenever I push to GitHub. No build step complexity, no environment variables to manage—it just works.
+The whole thing deploys automatically to Netlify whenever I push to GitHub. No build step complexity, no environment variables to manage. It just works.
 
 ## The Tech Stack Rundown
 
@@ -100,6 +100,6 @@ If you're running an older static site and feeling that maintenance friction, it
 
 That said, don't migrate just for the sake of migrating. Do it when your current setup is holding you back from creating content or when you're genuinely excited about the possibilities a new platform offers.
 
-For me, this migration wasn't just about changing technologies—it was about rekindling my enthusiasm for maintaining my own corner of the internet. And that's worth its weight in gold. ✨
+For me, this migration wasn't just about changing technologies. It was about rekindling my enthusiasm for maintaining my own corner of the internet. And that's worth its weight in gold. ✨
 
 **Share with me:** Have you migrated a website or blog recently? What drove your decision, and how did it turn out? I'd love to hear your experiences in the comments below! 💬
