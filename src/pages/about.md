@@ -8,8 +8,8 @@ title: "About Me 🧑‍💻"
 <style>
 @media (min-width: 640px) {
   .about-bio-image {
-    width: 225px !important;
-    height: 225px !important;
+    width: 192px !important;
+    height: 192px !important;
     margin-top: -72px !important;
   }
 }
