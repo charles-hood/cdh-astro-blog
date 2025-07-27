@@ -12,8 +12,11 @@ tags:
   - "Tech"
 ---
 
-<div style="float: right; margin: 0 0 15px 20px; width: 250px;">
-  <img src="/blog-images/2025-01-27--blog-migration-journey/media/astro-simple.svg" alt="Astro - The web framework for content-driven websites" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<div style="float: right; margin: 0 0 15px 20px; width: 200px;">
+  <picture>
+    <source srcset="/blog-images/2025-01-27--blog-migration-journey/media/astro-logo-dark.png" media="(prefers-color-scheme: dark)">
+    <img src="/blog-images/2025-01-27--blog-migration-journey/media/astro-logo-light-gradient.svg" alt="Astro - The web framework for content-driven websites" style="width: 100%; border-radius: 8px;">
+  </picture>
 </div>
 
 Well, it finally happened. After months of my blog sitting there looking a bit stale (okay, *really* stale), I decided it was time for a change. Not just new content, but a complete tech stack overhaul. Let me tell you about my journey from Gatsby to Astro, and why it was one of the best decisions I've made for my digital presence. 🚀
