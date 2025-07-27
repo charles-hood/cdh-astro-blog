@@ -3,13 +3,13 @@ layout: ../layouts/AboutLayout.astro
 title: "About Me 🧑‍💻"
 ---
 
-<img src="/cdh-hiking-az.jpg" alt="Charles Hood hiking in Arizona" class="about-bio-image" style="float: right; margin: -60px 0 10px 10px; border-radius: 50%; width: 128px; height: 128px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+<img src="/cdh-hiking-az.jpg" alt="Charles Hood hiking in Arizona" class="about-bio-image" style="float: right; margin: -60px 0 10px 10px; border-radius: 50%; width: 150px; height: 150px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 
 <style>
 @media (min-width: 640px) {
   .about-bio-image {
-    width: 192px !important;
-    height: 192px !important;
+    width: 200px !important;
+    height: 200px !important;
     margin-top: -72px !important;
   }
 }
