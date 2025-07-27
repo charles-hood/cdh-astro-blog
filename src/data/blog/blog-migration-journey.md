@@ -17,7 +17,7 @@ tags:
   <img src="/blog-images/2025-01-27--blog-migration-journey/media/astro-logo-light-gradient.png" alt="Astro - The web framework for content-driven websites" class="hidden dark:block" style="width: 100%; border-radius: 8px;">
 </div>
 
-Well, it finally happened. After months of my blog sitting there looking a bit stale (okay, *really* stale), I decided it was time for a change. Not just new content, but a complete tech stack overhaul. Let me tell you about my journey from Gatsby to Astro, and why it was one of the best decisions I've made for my digital presence. 🚀
+Well, it finally happened. After months of my blog sitting there looking a bit stale (okay, *really* stale), I decided it was time for a change. Not just new content, but a complete tech stack overhaul. Let me tell you about my journey from Gatsby to [Astro](https://astro.build), and why it was one of the best decisions I've made for my digital presence. 🚀
 
 ## The Problem with My Old Setup
 
