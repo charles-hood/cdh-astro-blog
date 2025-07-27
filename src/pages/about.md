@@ -3,7 +3,16 @@ layout: ../layouts/AboutLayout.astro
 title: "About Me 🧑‍💻"
 ---
 
-<img src="/cdh-bio-pic-LI.jpeg" alt="Charles Hood" style="float: right; margin: 0 0 10px 10px; border-radius: 50%; width: 225px; height: 225px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+<img src="/cdh-bio-pic-LI.jpeg" alt="Charles Hood" class="about-bio-image" style="float: right; margin: 0 0 10px 10px; border-radius: 50%; width: 128px; height: 128px; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+
+<style>
+@media (min-width: 640px) {
+  .about-bio-image {
+    width: 225px !important;
+    height: 225px !important;
+  }
+}
+</style>
 
 Hey there! 👋 I'm a tech enthusiast in my 50s, living in either "Atlanta" or Canton, GA — depending on who's asking. My passions include tech, live music, and exploring new places through travel.
 
