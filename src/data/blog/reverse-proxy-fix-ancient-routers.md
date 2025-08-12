@@ -1,8 +1,8 @@
 ---
 author: "Charles Hood"
 pubDatetime: 2025-08-12T14:00:00.000Z
-title: "How I Spent $5.50/month to Fix What Three Tech Giants Couldn't"
-description: "A tale of ancient routers, modern incompetence, and why I'm running a reverse proxy to access my own websites from my own house"
+title: "How I Spent $5.50/month to Fix What Three Tech Giants Wouldn't"
+description: "A Tale of Ancient Routers and Modern Apathy"
 draft: false
 tags:
   - "Networking"
