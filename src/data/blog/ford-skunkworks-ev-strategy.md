@@ -55,7 +55,7 @@ That's not hedging. That's not corporate speak. That's a CEO acknowledging an ex
 
 The discussion took an interesting turn when they debated whether Ford might license Tesla's Full Self-Driving technology. One analyst argued Ford is too focused on just building an affordable car to worry about FSD. The counterargument was compelling though. If you're trying to sell a $30,000 vehicle with razor-thin margins, adding FSD as an option could literally double your profit per vehicle.
 
-Farley has said Ford won't pursue fully autonomous robotaxis. He doesn't see removing the driver as a viable business model. But that doesn't mean they couldn't license FSD as a driver assistance feature. They pointed out that Ford already offers some hands-free highway driving features, so the infrastructure for selling advanced driver assistance is there.
+Farley has said Ford won't pursue fully autonomous robotaxis. He doesn't see removing the driver as a viable business model. But that doesn't mean they couldn't license FSD as a driver assistance feature. The video discussion pointed out that Ford already offers some hands-free highway driving features, so the infrastructure for selling advanced driver assistance is there.
 
 ## What This Means
 
