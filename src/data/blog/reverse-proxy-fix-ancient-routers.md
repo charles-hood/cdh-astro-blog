@@ -15,7 +15,25 @@ coverImage:
   alt: "Ancient router with 'Do NOT remove - Steve 2015' sticky note"
 ---
 
-<img src="/blog-images/reverse-proxy-fix/media/steve-router-2015.png" alt="Ancient router with 'Do NOT remove - Steve 2015' sticky note" style="float: right; margin: 0 0 10px 10px; width: 128px; height: 128px; object-fit: cover;" />
+<img src="/blog-images/reverse-proxy-fix/media/steve-router-2015.png" alt="Ancient router with 'Do NOT remove - Steve 2015' sticky note" class="router-image" />
+
+<style>
+.router-image {
+  float: right;
+  margin: 0 0 10px 10px;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+@media (min-width: 768px) {
+  .router-image {
+    width: 250px;
+    height: 250px;
+    margin: 0 0 20px 20px;
+  }
+}
+</style>
 
 ## Or: Why I'm Running a Reverse Proxy to Access My Own Websites from My Own House
 
