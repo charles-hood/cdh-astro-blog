@@ -27,7 +27,7 @@ coverImage:
 }
 </style>
 
-Ford just [officially announced their Skunkworks project yesterday](https://www.fromtheroad.ford.com/us/en/articles/2025/ford-affordable-electric-vehicle-platform-midsize-electric-truck), finally going public with what had been Silicon Valley's worst-kept secret. I stumbled across a fascinating discussion about it [shared by Alexandra Merz (@TeslaBoomerMama) on X](https://x.com/TeslaBoomerMama/status/1837534847629512838), and as someone who's been driving electric for the past five years (and yes, currently behind the wheel of a Lightning), I had to share some thoughts. The video features Alexandra Merz, a Tesla retail investor and analyst who writes extensively about EV industry dynamics, along with other analysts dissecting Ford's now-public EV strategy. The picture they paint is both exciting and sobering.
+Ford just [officially announced their Skunkworks project yesterday](https://www.fromtheroad.ford.com/us/en/articles/2025/ford-affordable-electric-vehicle-platform-midsize-electric-truck), finally going public with what had been Silicon Valley's worst-kept secret. I caught a fascinating discussion about it [shared by Alexandra Merz (@TeslaBoomerMama) on X](https://x.com/TeslaBoomerMama/status/1837534847629512838), and as someone who's been driving electric for the past five years (and yes, currently behind the wheel of a Lightning), I had to share some thoughts. The video features Alexandra Merz, a Tesla retail investor and analyst who writes extensively about EV industry dynamics, along with other analysts dissecting Ford's now-public EV strategy. The picture they paint is both exciting and sobering.
 
 ## The Talent Tells the Story
 
