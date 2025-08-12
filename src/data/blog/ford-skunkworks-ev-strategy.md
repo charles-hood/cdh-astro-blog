@@ -39,23 +39,23 @@ This isn't window dressing. You don't poach this level of talent unless you're s
 
 ## The $30,000 Question
 
-What's Skunkworks actually building? A profitable EV pickup truck targeting a $30,000 price point. The speakers noted prices would range from the high 20s to high 40s after federal tax credits. The target launch is 2027. And here's the kicker: it has to be profitable, or Ford won't build it.
+What's Skunkworks actually building? A profitable EV pickup truck targeting a $30,000 price point. According to the discussion, prices would range from the high 20s to high 40s after federal tax credits. The target launch is 2027. And here's the kicker: it has to be profitable, or Ford won't build it.
 
 As someone who paid considerably more for my Lightning, I find this both encouraging and concerning. Encouraging because affordable EVs are exactly what we need for mass adoption. Concerning because Ford is currently losing about $47,000 on every EV they sell. That's not a typo. Their EV division is projected to lose $5.5 billion this year.
 
 ## Farley Gets It
 
-The most interesting part of the discussion centered on Jim Farley's evolution on EVs. Back in 2022, he was predicting Ford would sell 600,000 EVs by 2023. They sold 72,000. But rather than retreating, Farley seems to have had an epiphany. The speakers noted Ford now compares itself more to BYD than Tesla.
+The most interesting part of the discussion centered on Jim Farley's evolution on EVs. Back in 2022, he was predicting Ford would sell 600,000 EVs by 2023. They sold 72,000. But rather than retreating, Farley seems to have had an epiphany. The analysts noted Ford now compares itself more to BYD than Tesla.
 
-The speakers in the video highlighted a quote from Farley at the Aspen Ideas Festival this June that stopped me cold: "If we don't make this EV transition, Ford is not going to make it."
+Merz and her colleagues highlighted a quote from Farley at the Aspen Ideas Festival this June that stopped me cold: "If we don't make this EV transition, Ford is not going to make it."
 
 That's not hedging. That's not corporate speak. That's a CEO acknowledging an existential threat.
 
 ## The FSD Wild Card
 
-The discussion took an interesting turn when they debated whether Ford might license Tesla's Full Self-Driving technology. One speaker argued Ford is too focused on just building an affordable car to worry about FSD. The counterargument was compelling though. If you're trying to sell a $30,000 vehicle with razor-thin margins, adding FSD as an option could literally double your profit per vehicle.
+The discussion took an interesting turn when they debated whether Ford might license Tesla's Full Self-Driving technology. One analyst argued Ford is too focused on just building an affordable car to worry about FSD. The counterargument was compelling though. If you're trying to sell a $30,000 vehicle with razor-thin margins, adding FSD as an option could literally double your profit per vehicle.
 
-Farley has said Ford won't pursue fully autonomous robotaxis. He doesn't see removing the driver as a viable business model. But that doesn't mean they couldn't license FSD as a driver assistance feature. The speakers pointed out that Ford already offers some hands-free highway driving features, so the infrastructure for selling advanced driver assistance is there.
+Farley has said Ford won't pursue fully autonomous robotaxis. He doesn't see removing the driver as a viable business model. But that doesn't mean they couldn't license FSD as a driver assistance feature. They pointed out that Ford already offers some hands-free highway driving features, so the infrastructure for selling advanced driver assistance is there.
 
 ## What This Means
 
@@ -65,6 +65,6 @@ The comparison to Lockheed's original Skunk Works is apt. That team developed th
 
 As a Lightning owner, I'm rooting for them. My truck is fantastic, but it's expensive. If Ford can crack the code on affordable, profitable EVs while maintaining their build quality and dealer network advantages, they have a real shot. And honestly, given what's happening in China with companies like BYD, they might not have a choice.
 
-The full video is worth watching if you're interested in the automotive industry's electric transition. Alexandra Merz and her colleagues did their homework, even digging into LinkedIn profiles to understand exactly who Ford hired and where they came from. It's the kind of deep dive that makes you appreciate just how massive this shift really is. Coming from the Tesla investor community, their perspective on Ford's strategy adds an interesting outside view of what might be the most important project in Ford's recent history.
+The full video is worth watching if you're interested in the automotive industry's electric transition. Merz and team did their homework, even digging into LinkedIn profiles to understand exactly who Ford hired and where they came from. It's the kind of deep dive that makes you appreciate just how massive this shift really is. And coming from the Tesla investor community, their take on Ford's strategy adds an interesting outside perspective on what might be the most important project in Ford's recent history.
 
 Ford's betting the company on Skunkworks succeeding. After watching this discussion and seeing the team they've assembled, I think they might just pull it off.
