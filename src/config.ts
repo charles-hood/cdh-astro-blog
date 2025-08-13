@@ -39,8 +39,8 @@ export interface GiscusProps {
 export const GISCUS: GiscusProps = {
   repo: "charles-hood/cdh-astro-blog",
   repoId: "R_kgDONhx-tw",
-  category: "Announcements",
-  categoryId: "DIC_kwDONhx-t84ClG5J",
+  category: "General",
+  categoryId: "DIC_kwDONhx-t84ClG5I",
   mapping: "pathname",
   strict: "0",
   reactionsEnabled: "1",
