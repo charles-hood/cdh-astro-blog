@@ -18,7 +18,7 @@ title: "About Me"
 Hey there! 👋 I'm an old-school tech nerd, living in… well, Canton, GA — but I usually just say "Atlanta" because it's easier than explaining where Canton is, how to get there, and why I live there. You know how it is. When I'm not explaining where I live, I'm nerding out over new tech, trying to find the perfect live show, or plotting my next getaway.
 
 ## Tech Treks 💻
-I love diving into the latest gadgets, coding projects, and exploring the ever-evolving tech landscape. From tinkering with new software to embracing the latest tech trends, I'm always game for whatever comes next.
+Look, I've been doing this since floppy disks were actually floppy. These days I'm tinkering with AI tools, and trying to figure out why my smart home keeps turning off the lights when I'm still in the room. The tech landscape keeps changing, and honestly? That's what keeps it interesting. Old dog, new tricks, and all that.
 
 ## Live Music 🎵
 **Small venues, big passion.** There's something truly magical about experiencing music in a space where the energy is palpable and the connection between artists and audience is undeniable. That's where I thrive.
@@ -26,7 +26,7 @@ I love diving into the latest gadgets, coding projects, and exploring the ever-e
 **Supporting local artists is a priority for me.** I'm convinced that some of the most talented musicians are right here in our communities, and I'm committed to championing their voices. While I'm down for all kinds of musical genres, there's something about Americana and singer/songwriter vibes that just speak to my soul. It's like they have a backstage pass to my feels.
 
 ## Nomadic Quests 🛩️
-Travel is another passion of mine. Exploring new places, meeting interesting people, and immersing myself in the beauty of different landscapes—these adventures fuel my curiosity.
+I'm not the hostel-backpacking type anymore, but I'm always suitcase-ready. My happy place? Somewhere down a highway, chasing quirky roadside attractions and discovering those perfect hole-in-the-wall spots the locals keep to themselves. I love hopping in my truck (EV, of course) with no firm plans and only a vague destination, just enough to know I'm headed toward a dot on the map I've never been before.
 
 ## About This Website 🌐
 
