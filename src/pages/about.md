@@ -15,7 +15,7 @@ title: "About Me"
 }
 </style>
 
-Hey there! 👋 I'm a tech enthusiast in my 50s, living in either "Atlanta" or Canton, GA — depending on who's asking. My passions include tech, live music, and exploring new places through travel.
+Hey there! 👋 I'm a tech enthusiast in my 50s, living in… well, Canton, GA — but I usually just say "Atlanta" because it's easier than explaining where Canton is, how to get there, and why I live there. You know how it is. When I'm not explaining where I live, I'm nerding out over new tech, trying to find the perfect live show, or plotting my next getaway.
 
 ## Tech Treks 💻
 As a tech enthusiast, I love diving into the latest gadgets, coding projects, and exploring the ever-evolving tech landscape. From tinkering with new software to embracing the latest tech trends, I'm always game for whatever comes next.
@@ -29,6 +29,14 @@ As a tech enthusiast, I love diving into the latest gadgets, coding projects, an
 Travel is another passion of mine. Exploring new places, meeting interesting people, and immersing myself in the beauty of different landscapes—these adventures fuel my curiosity.
 
 ## About This Website 🌐
-Everyone needs a personal space on the web apart from the big social media platforms, and this is mine. This website is hosted for free using a combination of [Github](https://github.com/) and [Netlify](https://www.netlify.com/). It's built using [Astro](https://astro.build/) with the beautiful [AstroPaper](https://github.com/satnaing/astro-paper) theme, making it lightning fast and SEO-friendly. The content is written in [Markdown](https://www.markdownguide.org/), which makes it easy to manage. In other words, I took advantage of several awesome free tools and technologies to assemble this website for no cost, with minimal coding—just some light customization to make it my own. If you'd like to try the same thing, let me know and I can help you get started.
+
+Everyone needs a corner of the internet that's truly theirs, and this is mine. I built it with [Astro](https://astro.build/) and the [AstroPaper](https://github.com/satnaing/astro-paper) theme, and now it runs on a VPS — a [DigitalOcean](https://www.digitalocean.com/) "droplet," which is just a tiny Linux VM sitting in someone else's data center, pretending to be the cloud. I write everything in Markdown, so updating the site is quick and painless. Minimal coding, maximum personality. Happy to help you spin up your own — [hit me up](/contact).
 
 Thanks for stopping by, and feel free to connect on [X/Twitter](https://twitter.com/charleshood) or [LinkedIn](https://www.linkedin.com/in/charleshood/). Let's share our love for tech, tunes, and travel!
+
+## Get In Touch 📫
+
+- X/Twitter: [@charleshood](https://twitter.com/charleshood)
+- LinkedIn: [Charles Hood](https://www.linkedin.com/in/charleshood/)
+- Facebook: [Charles Hood](https://www.facebook.com/charleshood) 
+- Email: [charles.hood@gmail.com](mailto:charles.hood@gmail.com)
