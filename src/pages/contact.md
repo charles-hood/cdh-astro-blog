@@ -25,7 +25,7 @@ The best way to stay in touch is through X. Follow [@charleshood](https://twitte
 
 For professional inquiries or to connect on a more formal platform, visit my [LinkedIn profile](https://www.linkedin.com/in/charleshood/). Let's build our professional network!
 
-## Find me on Facebook 👥
+## Find me on Facebook <span style="background-color: #1877F2; color: white; font-weight: bold; padding: 2px 6px; border-radius: 4px; font-family: Arial, sans-serif; display: inline-block; line-height: 1;">f</span>
 
 Stay connected through [Facebook](https://www.facebook.com/charleshood) for updates and discussions.
 
