@@ -15,10 +15,10 @@ title: "About Me"
 }
 </style>
 
-Hey there! 👋 I'm a tech enthusiast in my 50s, living in… well, Canton, GA — but I usually just say "Atlanta" because it's easier than explaining where Canton is, how to get there, and why I live there. You know how it is. When I'm not explaining where I live, I'm nerding out over new tech, trying to find the perfect live show, or plotting my next getaway.
+Hey there! 👋 I'm an old-school tech nerd, living in… well, Canton, GA — but I usually just say "Atlanta" because it's easier than explaining where Canton is, how to get there, and why I live there. You know how it is. When I'm not explaining where I live, I'm nerding out over new tech, trying to find the perfect live show, or plotting my next getaway.
 
 ## Tech Treks 💻
-As a tech enthusiast, I love diving into the latest gadgets, coding projects, and exploring the ever-evolving tech landscape. From tinkering with new software to embracing the latest tech trends, I'm always game for whatever comes next.
+I love diving into the latest gadgets, coding projects, and exploring the ever-evolving tech landscape. From tinkering with new software to embracing the latest tech trends, I'm always game for whatever comes next.
 
 ## Live Music 🎵
 **Small venues, big passion.** There's something truly magical about experiencing music in a space where the energy is palpable and the connection between artists and audience is undeniable. That's where I thrive.
