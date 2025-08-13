@@ -41,7 +41,7 @@ export const GISCUS: GiscusProps = {
   repoId: "R_kgDOPTXr4Q",
   category: "Announcements",
   categoryId: "DIC_kwDOPTXr4c4Ctc6B",
-  mapping: "pathname",
+  mapping: "url",
   strict: "0",
   reactionsEnabled: "1",
   emitMetadata: "0",
