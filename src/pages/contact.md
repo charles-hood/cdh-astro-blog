@@ -27,7 +27,7 @@ For professional inquiries or to connect on a more formal platform, visit my [Li
 
 ## Find me on Facebook <span style="background-color: #1877F2; color: white; font-weight: bold; padding: 2px 6px; border-radius: 4px; font-family: Arial, sans-serif; display: inline-block; line-height: 1;">f</span>
 
-Stay connected through [Facebook](https://www.facebook.com/charleshood) for updates and discussions.
+Yeah, I still use [Facebook](https://www.facebook.com/charleshood). I'm in my 50s, what did you expect? 😄
 
 ## Drop Me an Email 📬
 
