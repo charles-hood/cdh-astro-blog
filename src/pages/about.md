@@ -15,7 +15,7 @@ title: "About Me"
 }
 </style>
 
-Hey there! 👋 I'm an old-school tech nerd, living in… well, Canton, GA — but I usually just say "Atlanta" because it's easier than explaining where Canton is, how to get there, and why I live there. You know how it is. When I'm not explaining where I live, I'm nerding out over new tech, trying to find the perfect live show, or plotting my next getaway.
+Hey there! 👋 I'm an old-school tech nerd, living in… well, Canton, GA — but I usually just say "Atlanta" because it's easier than explaining where Canton is, how to get there, and why I live there. You know how it is. When I'm not explaining where I live, I'm geeking out over new tech, trying to find the perfect live show, or plotting my next getaway.
 
 ## Tech Treks 💻
 Look, I've been doing this since floppy disks were actually floppy. These days I'm tinkering with AI tools, and trying to figure out why my smart home keeps turning off the lights when I'm still in the room. The tech landscape keeps changing, and honestly? That's what keeps it interesting. Old dog, new tricks, and all that.
