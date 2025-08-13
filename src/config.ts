@@ -38,14 +38,14 @@ export interface GiscusProps {
 
 export const GISCUS: GiscusProps = {
   repo: "charles-hood/cdh-astro-blog",
-  repoId: "R_kgDONhx-tw",
-  category: "General",
-  categoryId: "DIC_kwDONhx-t84ClG5I",
+  repoId: "R_kgDOPTXr4Q",
+  category: "Announcements",
+  categoryId: "DIC_kwDOPTXr4c4Ctc6B",
   mapping: "pathname",
   strict: "0",
   reactionsEnabled: "1",
   emitMetadata: "0",
-  inputPosition: "top",
+  inputPosition: "bottom",
   lang: "en",
   loading: "lazy",
 };
