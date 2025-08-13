@@ -31,12 +31,3 @@ Travel is another passion of mine. Exploring new places, meeting interesting peo
 ## About This Website 🌐
 
 Everyone needs a corner of the internet that's truly theirs, and this is mine. I built it with [Astro](https://astro.build/) and the [AstroPaper](https://github.com/satnaing/astro-paper) theme, and now it runs on a VPS — a [DigitalOcean](https://www.digitalocean.com/) "droplet," which is just a tiny Linux VM sitting in someone else's data center, pretending to be the cloud. I write everything in Markdown, so updating the site is quick and painless. Minimal coding, maximum personality. Happy to help you spin up your own — [hit me up](/contact).
-
-Thanks for stopping by, and feel free to connect on [X/Twitter](https://twitter.com/charleshood) or [LinkedIn](https://www.linkedin.com/in/charleshood/). Let's share our love for tech, tunes, and travel!
-
-## Get In Touch 📫
-
-- X/Twitter: [@charleshood](https://twitter.com/charleshood)
-- LinkedIn: [Charles Hood](https://www.linkedin.com/in/charleshood/)
-- Facebook: [Charles Hood](https://www.facebook.com/charleshood) 
-- Email: [charles.hood@gmail.com](mailto:charles.hood@gmail.com)
