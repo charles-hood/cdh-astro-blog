@@ -31,15 +31,4 @@ Yeah, I still use [Facebook](https://www.facebook.com/charleshood). I'm in my 50
 
 ## Drop Me an Email 📬
 
-Have a more detailed inquiry or just prefer email? Reach me at <span id="email"></span>
-
-<script>
-// Email obfuscation to prevent spam bots
-document.addEventListener('DOMContentLoaded', function() {
-  var user = 'charles.hood';
-  var domain = 'gmail.com';
-  var element = document.getElementById('email');
-  element.innerHTML = '<a href="mailto:' + user + '@' + domain + '">' + user + '@' + domain + '</a>';
-});
-</script>
-<noscript>charles.hood [at] gmail [dot] com</noscript>
+Have a more detailed inquiry or just prefer email? Reach me at [charles.hood@gmail.com](mailto:charles.hood@gmail.com).
