@@ -48,6 +48,17 @@ html[data-theme="dark"] {
   [role="button"]:not(:disabled) {
     cursor: pointer;
   }
+  
+  /* Proxy-proof theme toggle fallback */
+  #theme-btn span:empty::after {
+    font-family: monospace;
+  }
+  #theme-btn span:first-child:empty::after {
+    content: "☾";
+  }
+  #theme-btn span:last-child:empty::after {
+    content: "☼";
+  }
   section,
   footer {
     @apply mx-auto max-w-app px-4;
