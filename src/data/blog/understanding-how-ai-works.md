@@ -15,7 +15,7 @@ tags:
 
 # Understanding How AI Actually Works: A Deep Dive into Large Language Models
 
-If you've ever wondered what's really happening when you type a question into ChatGPT and watch it generate a response, you're not alone. The process behind these AI systems is both more straightforward and more complex than most people realize. Recently, [Andrej Karpathy](https://x.com/karpathy) (former Tesla AI director and OpenAI founding member) released what might be the most comprehensive explanation of how large language models actually work.
+If you've ever wondered what's really happening when you type a question into ChatGPT and watch it generate a response, you're not alone. The process behind these AI systems is both more straightforward and more complex than most people realize. Earlier this year, [Andrej Karpathy](https://x.com/karpathy) (former Tesla AI director and OpenAI founding member) released what might be the most comprehensive explanation of how large language models actually work.
 
 His [3.5-hour video walkthrough](https://youtu.be/7xTGNNLPyMI?si=By_g9PKcSvJXa10q) is genuinely worth watching in full. But I know that's a big time commitment, so I wanted to break down the key insights that completely changed how I think about these tools.
 
