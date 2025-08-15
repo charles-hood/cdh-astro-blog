@@ -15,7 +15,7 @@ tags:
 
 # Understanding How AI Actually Works: A Deep Dive into Large Language Models
 
-If you've ever wondered what's really happening when you type a question into ChatGPT and watch it generate a response, you're not alone. The process behind these AI systems is both more straightforward and more complex than most people realize. Recently, Andrej Karpathy (former Tesla AI director and OpenAI founding member) released what might be the most comprehensive explanation of how large language models actually work.
+If you've ever wondered what's really happening when you type a question into ChatGPT and watch it generate a response, you're not alone. The process behind these AI systems is both more straightforward and more complex than most people realize. Recently, [Andrej Karpathy](https://x.com/karpathy) (former Tesla AI director and OpenAI founding member) released what might be the most comprehensive explanation of how large language models actually work.
 
 His [3.5-hour video walkthrough](https://youtu.be/7xTGNNLPyMI?si=By_g9PKcSvJXa10q) is genuinely worth watching in full. But I know that's a big time commitment, so I wanted to break down the key insights that completely changed how I think about these tools.
 
@@ -137,3 +137,5 @@ Because once you understand what's actually happening inside that text box, you'
 ---
 
 **P.S.** Quick note on timing: This video is from February 2025, which means it's about six months old as I write this. In AI terms, that's... well, it's a lot. The foundational concepts about how LLMs are trained remain rock solid and essential to understand. But the video doesn't cover some newer developments like RAG (Retrieval-Augmented Generation), the current shift toward agentic behaviors where AI systems can take actions and use tools more autonomously, or models released since then. Still, from a foundational perspective, this remains the best explanation of how these systems actually work under the hood. Watch it for the fundamentals, then catch up on the latest developments. You'll understand them much better with this grounding.
+
+**Credit:** This article is based entirely on Andrej Karpathy's exceptional ["How Large Language Models Work"](https://youtu.be/7xTGNNLPyMI) lecture. All the core insights come from his presentation - I've simply attempted to distill his 3.5 hours of wisdom into a readable summary. Any errors in interpretation are mine alone.
