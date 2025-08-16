@@ -45,11 +45,11 @@ Think about what you're actually doing here. You're hauling around hundreds of p
 
 ## Ford Just Bet $5 Billion That You're Ready to Stop This Madness
 
-[Ford's CEO just called their new electric truck a "Model T moment."](https://www.npr.org/2025/08/11/nx-s1-5496651/ford-cheap-electric-truck) Not because it's revolutionary technology. But because they're finally building an EV for how people actually drive, not how they fantasize about driving.
+[Ford's CEO just called their new electric truck a "Model T moment."](https://www.cnn.com/2025/08/11/business/ford-ev-investment) Not because it's revolutionary technology. But because they're finally building an EV for how people actually drive, not how they fantasize about driving.
 
 The specs are boring as hell, and that's the point. A $30,000 midsize pickup. Coming in 2027. And here's the beautiful part: they're not even trying to compete on range. They're using cheaper lithium-iron-phosphate batteries. A 400-volt architecture instead of the fancy 800-volt systems. Twenty percent fewer parts than traditional vehicles. They stripped out 4,000 feet of wiring compared to the Mustang Mach-E.
 
-[Ford's literally dismantling the assembly line Henry Ford invented](https://www.cnn.com/2025/08/11/business/ford-ev-investment), replacing it with something they call a "tree layout" that builds vehicles 40% faster. All to hit that $30,000 price point. That's half what the average EV costs today ([$56,000 according to Kelley Blue Book](https://www.kbb.com/)). 
+Ford's literally dismantling the assembly line Henry Ford invented, replacing it with something they call a "tree layout" that builds vehicles 40% faster. All to hit that $30,000 price point. That's half what the average EV costs today ($56,000 according to Kelley Blue Book). 
 
 And they're not alone. [Slate, that new startup backed by Bezos](https://slate.auto/), is targeting a $25,000 pickup with just 150 miles of range. They're calling it an "around-town vehicle" and not even pretending it's for road trips.
 
@@ -61,7 +61,7 @@ You go to work. You come home. You stop for groceries. On weekends you're tired 
 
 Sure, there are people who genuinely need big batteries. Maybe you can't charge at home. Maybe you actually do take long trips regularly. Maybe you live somewhere with terrible charging infrastructure. Fine. But for most of us? Recurrent's research suggests a 200-mile EV could handle 99% of our daily patterns. Ninety-nine percent.
 
-The average American household has [two cars](https://www.energy.gov/eere/vehicles/articles/fotw-1200-august-30-2021-us-households-vehicles-2020) anyway. Keep your gas car for those twice-yearly road trips. Or rent something. The money you save buying a shorter-range EV would pay for a lot of rental cars. A LOT of rental cars.
+The average American household has two cars anyway. Keep your gas car for those twice-yearly road trips. Or rent something. The money you save buying a shorter-range EV would pay for a lot of rental cars. A LOT of rental cars.
 
 ## The McMansion of Cars
 
