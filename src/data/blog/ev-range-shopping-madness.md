@@ -1,6 +1,6 @@
 ---
 author: "Charles Hood"
-pubDatetime: 2025-08-16T18:00:00.000Z
+pubDatetime: 2025-08-16T14:00:00.000Z
 title: "You Drive 40 Miles a Day. Why Are You Shopping for 400?"
 description: "The 400-mile range EV is the McMansion of cars - impressive, unnecessary, and draining your wallet for capabilities you'll never use"
 draft: false
