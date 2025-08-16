@@ -55,7 +55,7 @@ And they're not alone. [Slate, that new startup backed by Bezos](https://slate.a
 
 ## The Part Nobody Wants to Admit
 
-Here's what's fascinating. According to [Plug In America](https://pluginamerica.org/), range anxiety drops by half once people actually buy an EV. Only 22.8% of current EV drivers worry about range. Because once you live with one, you realize the truth: your daily life is remarkably predictable. And kind of boring.
+Here's what's fascinating. According to [Plug In America](https://www.recurrentauto.com/research/ev-range-anxiety-afflicts-this-group-most), range anxiety drops by half once people actually buy an EV. Only 22.8% of current EV drivers worry about range. Because once you live with one, you realize the truth: your daily life is remarkably predictable. And kind of boring.
 
 You go to work. You come home. You stop for groceries. On weekends you're tired and sleep in. That beach trip you were totally going to take? Still not happening, whether your car has 150 miles of range or 500.
 
