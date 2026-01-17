@@ -29,13 +29,9 @@ I've been planning a different kind of retirement. Not the golf course kind. Not
 
 Something else. I'm still figuring out what to call it.
 
----
-
 So here's the plan, more or less. A Tesla. A coworking membership that includes gym access (showers, this matters). Public land. And a rotation between being in civilization and being... adjacent to it.
 
 It's not vanlife. I'm too old for that, and honestly too practical. The Instagram version of this, with the fairy lights and the perfectly framed sunset shots, that's not what I'm after. I've started calling it edge-adjacent tourism, which is a term I think I made up, but who knows.
-
----
 
 There's a version of this that's actually on the edge. Like, a cabin in Alaska you can only reach by bush plane. No utilities. Wood stove. You eat what you hunt or what you stored last summer. That's real. That's commitment.
 
@@ -48,8 +44,6 @@ I'm doing the version where I sleep in my car in the desert, but the car has cli
 I'm simulating scarcity. Inside abundance.
 
 And I know how that sounds. Like cheating, kind of. But I think that's actually the point.
-
----
 
 Here's what I've noticed about my current life.
 
@@ -67,8 +61,6 @@ The feedback was immediate. Choices connected to consequences. I wasn't managing
 
 That's not deprivation. That's the opposite of deprivation.
 
----
-
 I keep coming back to this analogy. Intermittent fasting, but for your soul.
 
 With fasting, you're not starving. You have food. You're choosing a window of scarcity so that eating means something again. Hunger becomes a signal instead of noise. The meal at the end has texture.
@@ -79,8 +71,6 @@ You're not in danger. You've got money, a working vehicle, a phone that can call
 
 You're not starving. You're remembering what hunger feels like.
 
----
-
 I should be clear about what this isn't.
 
 It's not the Instagram thing. Content creation disguised as freedom. That's performance.
@@ -88,8 +78,6 @@ It's not the Instagram thing. Content creation disguised as freedom. That's perf
 And it's not the desperate version, people living in cars because they have no other option. I'm not romanticizing that. Those folks aren't on a journey of self-discovery, they're in survival mode, and conflating the two would be gross.
 
 This is something else. A deliberate choice to step back from frictionless comfort. Not because I have to. Because I figured out, maybe later than I should have, that the friction was never the problem. The friction was where the meaning lived. You optimize it all away and you're left with... what? Comfort. And nothing else.
-
----
 
 I don't know how long I'll do this. One winter. Maybe a year. Maybe I'll hate it by week six and come home.
 
