@@ -1,7 +1,7 @@
 ---
 author: "Charles Hood"
 pubDatetime: 2026-01-19T01:14:00.000Z
-title: "Four AIs Walked Into a Climate Debate: Finding America's Best Summer Weather"
+title: "Where's the Best Summer Weather in America? I Made Four AIs Fight About It"
 description: "I gave Claude, ChatGPT, Gemini, and Grok the same prompt about ideal summer weather cities. After rebuttals and revisions, they converged on a surprising consensus."
 draft: false
 tags:
