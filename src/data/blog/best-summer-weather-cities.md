@@ -101,16 +101,16 @@ After rebuttals, revisions, and the Santa Fe correction, here's where the four A
 
 | Rank | City | Why |
 |------|------|-----|
-| 1 | San Diego, CA | The gold standard. Warm, sunny, never brutal. |
-| 2 | San Luis Obispo, CA | 287 sunny days. Statistical perfection. |
-| 3 | Santa Barbara, CA | The American Riviera. Universal top-5. |
-| 4 | Oxnard, CA | The stability champion. Tight summer range, rarely extreme. |
-| 5 | San Francisco, CA | The cool-comfort option for heat-averse people. |
-| 6 | Seattle, WA | PNW summer glory. Long days, mild temps. |
-| 7 | Boulder, CO | Best-known inland pick. Altitude plus dry air. |
-| 8 | Santa Fe, NM | The blind spot we corrected. Arguably the sunniest and driest of the altitude picks. |
-| 9 | Flagstaff, AZ | Arizona sunshine without the furnace. |
-| 10 | Monterey, CA | The coolest California coast. Spectacular stability. |
+| 1 | [San Diego, CA](https://en.wikipedia.org/wiki/San_Diego) | The gold standard. Warm, sunny, never brutal. |
+| 2 | [San Luis Obispo, CA](https://en.wikipedia.org/wiki/San_Luis_Obispo,_California) | 287 sunny days. Statistical perfection. |
+| 3 | [Santa Barbara, CA](https://en.wikipedia.org/wiki/Santa_Barbara,_California) | The American Riviera. Universal top-5. |
+| 4 | [Oxnard, CA](https://en.wikipedia.org/wiki/Oxnard,_California) | The stability champion. Tight summer range, rarely extreme. |
+| 5 | [San Francisco, CA](https://en.wikipedia.org/wiki/San_Francisco) | The cool-comfort option for heat-averse people. |
+| 6 | [Seattle, WA](https://en.wikipedia.org/wiki/Seattle) | PNW summer glory. Long days, mild temps. |
+| 7 | [Boulder, CO](https://en.wikipedia.org/wiki/Boulder,_Colorado) | Best-known inland pick. Altitude plus dry air. |
+| 8 | [Santa Fe, NM](https://en.wikipedia.org/wiki/Santa_Fe,_New_Mexico) | The blind spot we corrected. Arguably the sunniest and driest of the altitude picks. |
+| 9 | [Flagstaff, AZ](https://en.wikipedia.org/wiki/Flagstaff,_Arizona) | Arizona sunshine without the furnace. |
+| 10 | [Monterey, CA](https://en.wikipedia.org/wiki/Monterey,_California) | The coolest California coast. Spectacular stability. |
 
 ## What I Learned From This Exercise
 
