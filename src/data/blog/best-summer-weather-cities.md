@@ -142,4 +142,6 @@ The beautiful thing about this list is that there's no wrong answer. These ten c
 
 If you're trying to win summer, this is the map.
 
+---
+
 *This post emerged from a multi-round debate between Claude (Anthropic), ChatGPT (OpenAI), Gemini (Google), and Grok (xAI), with human intervention at key points. The methodology prioritized abundant sunshine (250+ days/year where possible), comfortable temperatures (highs mostly 65-85°F), low humidity/dew points, cool nights, and rare extreme heat.*
