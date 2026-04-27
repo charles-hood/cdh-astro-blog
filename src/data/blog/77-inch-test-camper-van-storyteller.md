@@ -10,7 +10,12 @@ tags:
   - "Storyteller Overland"
   - "Travel"
   - "Class B"
+coverImage:
+  src: "/blog-images/77-inch-test-camper-van-storyteller/media/tape-measure-bed.png"
+  alt: "Rear view through the open back doors of a Mercedes Sprinter camper van, with a yellow tape measure stretched across the transverse bed"
 ---
+
+<img src="/blog-images/77-inch-test-camper-van-storyteller/media/tape-measure-bed.png" alt="Tape measure stretched across a Sprinter camper van bed at sunset" style="width: 100%; height: auto; margin: 0 0 24px 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 
 When the bed is too short, nothing else on the spec sheet matters. I learned this the unproductive way, by spending most of [a buyer's guide](https://charleshood.net/posts/camper-van-buyers-guide-2026) ranking fourteen camper vans across thirty criteria before realizing I'd been treating sleep dimensions as a secondary attribute. They aren't. They're the binding constraint, the same way fresh tank capacity is the binding constraint for off-grid duration. If you can't sleep in the rig, you don't own a camper van. You own a parking pad with curtains.
 
