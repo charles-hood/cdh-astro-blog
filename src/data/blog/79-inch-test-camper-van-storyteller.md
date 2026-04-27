@@ -25,13 +25,13 @@ This post is what happened when I reran the search with one hard rule: 79 inches
 
 ## Why bed length
 
-I'm 6'3", which is 75 inches. The standard rule for camper van shopping is bed length equal to your height plus four inches, which puts my floor at 79 and the comfortable target somewhere north of 80. A 75-inch bed gets me in trouble immediately, because that's exactly my height with no margin for pillow, posture, or the slight curl most people adopt in their sleep. A 77-inch bed gets me a 2-inch tolerance, which is the kind of margin that disappears the first night after a long drive when I'm too tired to sleep perfectly straight.
+I'm 6'3", which is 75 inches. My working rule for camper van shopping is bed length equal to my height plus four inches, which puts the floor at 79 and the comfortable target somewhere north of 80. A 75-inch bed gets me in trouble immediately, because that's exactly my height with no margin for pillow, posture, or the slight curl most people adopt in their sleep. A 77-inch bed gets me a 2-inch tolerance, which is the kind of margin that disappears the first night after a long drive when I'm too tired to sleep perfectly straight.
 
 Width matters too, but width is where camper vans win. A 56-inch transverse bed (queen-narrow) is fine for a couple if both people aren't strict back sleepers. The constraint that actually fails buyers is length, and it fails quietly because nobody walks into a dealership and tries to sleep in the bed before signing the paperwork. They sit on it. They photograph it. They imagine themselves in it. None of this catches the problem that they're 75 inches long and the bed is 76, which leaves a 1-inch tolerance for everything from posture to pillow.
 
 One width caveat worth flagging early. Several of the survivors below use 49" x 79" power-lift beds, which is essentially a generous twin. Two adults can technically share it, but only the way two adults technically share an airline row. If a partner travels with you even occasionally, 49" stops being a feature and starts being a structural problem with the floor plan. The Storyteller's 56" DreamWeaver doesn't fix this, but it gets the math closer to "couple-tolerable" than the Tiffin and Revel layouts do.
 
-The honest test for any camper van bed is: lie down in it as you would actually sleep, with a pillow, and see if your feet are touching the wall. If yes, your future self is going to hate you for the next decade.
+The honest test is simple: lie down with a pillow exactly how you sleep. If your feet touch the wall, your future self will hate you for the next decade.
 
 ## The 76-inch wall, and the four vans that just barely clear it
 
@@ -55,13 +55,15 @@ The vans that survived the 79-inch cutoff:
 
 **Storyteller Overland MODE Classic / Dark / Beast OG-XO variants** at 20', with a 56" x 79" DreamWeaver bed and Sprinter 144 AWD diesel. Birmingham, Alabama factory roughly 200 miles from my house in Canton, Georgia.
 
-That's the surviving field. Four platforms, and the three I'm considering seriously (the Storyteller plus the Tiffin and Revel as nominal alternatives) all clear my 79-inch floor by exactly zero. None of them gives me even a single inch of margin. At 6'3" I am using essentially the entire bed in every production camper van currently sold in the US market with a long enough bed to fit me at all. That is the actual state of the segment.
+That's the surviving field. Four platforms, and the three I'm considering seriously (the Storyteller plus the Tiffin and Revel as nominal alternatives) all clear my 79-inch floor by exactly zero. None of them gives me even a single inch of margin. At 6'3" I am using essentially the entire bed in every mainstream production camper van I found that clears my cutoff at all. That is the actual state of the segment.
 
 ## Re-running the weighted ranking
 
 Once the field was down to four, the comparison started to feel useful. Some of these had multiple trims, and the trim-to-trim differences mattered as much as the cross-platform differences. Storyteller alone has Classic, Dark, and Beast performance trims, each available in OG (stowable bath) or XO (hardwall bath), which produced six SKUs.
 
 I weighted seven criteria across the survivors. Quality at 18 percent, because at this price point you're buying engineering and you can feel the absence of it. Reliability at 18 percent, because RVs aren't allowed to fail the way passenger vehicles fail and these segments have well-documented common failures. Service network at 18 percent, because nobody wants to drive 800 miles for a warranty claim. Reputation at 13 percent, because forum sentiment over multiple years tells you something the spec sheet doesn't. Price at 13 percent, because budget matters but isn't the lever. Insulation at 10 percent, because four-season capability is a hidden constraint for anyone planning year-round use. Stealth at 10 percent, because urban overnighting and dispersed-camping anonymity are real factors and aggressive overland aesthetics work against them.
+
+This is not a scientific reliability study. It's a buyer's-risk screen built from published specs, owner reports, forum patterns, and how much confidence I'd have writing a six-figure check. Read the rankings as one shopper's calibrated bet, not a population-level reliability dataset.
 
 The results didn't flatter the conventional wisdom.
 
@@ -89,7 +91,7 @@ The factory is in Birmingham, Alabama, a 200-mile drive from my house. That matt
 
 Storyteller has thousands of vans on the road and a documented owner community organized into nine regional chapters. The forum sentiment is unusual. There are complaints, but the overall tone is closer to "I love this thing" than to the standard RV-forum tone of "everything is broken and the dealer won't return my calls." Expedition Portal called Storyteller "one of the best out-of-the-box options" and described owner enthusiasm as "cultish." I take "cultish" as a feature when it correlates with a low common-failure list and a manufacturer that takes ownership of issues.
 
-The pricing model is half marketing, half real. Storyteller advertises "See-Through, No Haggle" pricing, which is partially fiction. The published prices on storytelleroverland.com are MSRP after a standard dealer discount baked in. Real Monroney sticker prices run $75,000-$86,000 above the website's "starting at" numbers. So when the website says a Classic MODE OG is $189,206, the actual sticker is $264,889, and the dealer is moving the unit at $189,206 with a $75,683 baked-in discount. Whether that's haggle-free or haggle-built-in depends on your priors. In practice, dealers are willing to discount further. I found a 2025 Beast MODE listed at $184,990 with the standing $15,000 factory rebate already applied, which represents an $8,000 discount beyond the website price.
+The pricing model is half marketing, half real. Storyteller advertises "See-Through, No Haggle" pricing, which is partially fiction. The published prices on storytelleroverland.com are MSRP after a standard dealer discount baked in. Real Monroney sticker prices run $70,000-$86,000 above the website's "starting at" numbers. So when the website lists a Classic MODE OG in the low $190s, the actual sticker is closer to $265,000, and the dealer is moving the unit with a baked-in discount of roughly $73,000. Whether that's haggle-free or haggle-built-in depends on your priors. In practice, dealers are willing to discount further. I found a 2025 Beast MODE listed at $184,990 with the standing $15,000 factory rebate already applied, which represents an $8,000 discount beyond the website price.
 
 The standing $15,000 factory rebate runs on 2025 144" Classic, Dark, and Beast MODE units through April 30, 2026. That deadline is roughly a week from when I'm writing this. Excludes 2026 model years, GXV products, and Crew/Tour XL variants.
 
@@ -109,16 +111,16 @@ The XL platform deserves a callout. The Crew MODE XL has the only second-row fiv
 
 The pricing structure decomposes cleanly:
 
-| Variant | Price |
+| Variant | 2026 Price |
 |---|---|
-| Classic MODE OG | $189,206 |
+| Classic MODE OG | $192,206 |
 | Classic MODE XO | $200,801 |
-| Dark MODE OG | $212,108 |
-| Dark MODE XO | $219,515 |
-| Beast MODE OG | $249,822 |
-| Beast MODE XO | $257,804 |
+| Dark MODE OG | $215,108 |
+| Dark MODE XO | $222,514 |
+| Beast MODE OG | $252,821 |
+| Beast MODE XO | $260,803 |
 
-The OG-to-XO premium is roughly $7,500-$11,500 across all trims. That's the price of the hardwall bath, and it costs you the GrooveLounge as a backup sleeping area. The Classic-to-Dark premium is roughly $23,000, and it doubles the battery, adds the suspension upgrade, and gets you the premium color palette. The Dark-to-Beast premium is roughly $38,000, and it buys you the prerunner suspension, the brush guard, the air compressor, the KC lighting, the MODEular storage, and the Beast Graphics. The biggest functional gain per dollar is unambiguously the Classic-to-Dark jump. The Dark-to-Beast jump is buying off-road kit you'd only use if you're actually rock-crawling.
+The OG-to-XO premium runs roughly $7,400-$8,600 across all trims. That's the price of the hardwall bath, and it costs you the GrooveLounge as a backup sleeping area. The Classic-to-Dark premium is roughly $22,000-$23,000, and it doubles the battery, adds the suspension upgrade, and gets you the premium color palette. The Dark-to-Beast premium is roughly $38,000, and it buys you the prerunner suspension, the brush guard, the air compressor, the KC lighting, the MODEular storage, and the Beast Graphics. The biggest functional gain per dollar is unambiguously the Classic-to-Dark jump. The Dark-to-Beast jump is buying off-road kit you'd only use if you're actually rock-crawling.
 
 ## The Stealth MODE problem (or: why some of the comparison content online is wrong)
 
@@ -126,19 +128,19 @@ This came up enough during research to be worth flagging. Stealth MODE is dead. 
 
 MODE LT (the cheaper Ford Transit-based platform) was discontinued after 2023 with roughly 250 total units built. Used MY2022-2023 LTs are still trading at $130,000-$168,000 against original $171,000 MSRPs, which is exceptional resale retention and a real consideration if you can stomach a discontinued platform with a small parts ecosystem.
 
-The "Stealth at Classic price" recommendations you'll find on older comparison content are wrong for 2026 buyers. The blackout aesthetic now lives in the Dark MODE at the Dark MODE price point, $212,108 for the OG.
+The "Stealth at Classic price" recommendations you'll find on older comparison content are wrong for 2026 buyers. The blackout aesthetic now lives in the Dark MODE at the Dark MODE price point, $215,108 for the OG.
 
 ## Where I arrived
 
-The ranking pointed to Classic MODE OG. The sweet-spot analysis pointed to Dark MODE OG. The dollar analysis pointed at the 2025 model year with the $15,000 rebate, which closes April 30. So the question I had to answer was: do I take the cheaper Classic at roughly $174,000 after rebate (or $165,000-$170,000 with a motivated dealer), or pay the $23,000 premium for the Dark and its doubled battery and EVICTUS Advanced Suspension?
+The ranking pointed to Classic MODE OG. The sweet-spot analysis pointed to Dark MODE OG. The dollar analysis pointed at the 2025 model year with the $15,000 rebate, which closes April 30. So the question I had to answer was: do I take the 2025 Classic OG at $172,321 after rebate (before taxes and fees), or pay the additional $18,422 to step up to the Dark OG at $190,743, which buys the doubled battery and the EVICTUS Advanced Suspension?
 
 The honest answer to "do I need the bigger battery" is: probably not, given my stated rotation. My retirement-era plan is summer in Asheville with private-room rentals, winter in Pensacola with similar rentals, and shoulder seasons in Canton with my parents. In all three locations I'd have shore power most nights. The 8.4 kWh Classic battery is more than enough for the typical use pattern of "drive to a nice spot, park, sleep, drive back to a charging location."
 
 The honest answer to "do I need the EVICTUS suspension" is: also probably not. I'm not rock-crawling. My version of off-pavement is graded forest service roads to access campsites or music venues, which the standard Sprinter suspension handles fine.
 
-The honest answer to "what are you actually buying with the $23,000 Dark premium" is: insurance against a use-case shift. If my retirement plan tilts toward more off-grid time than the Asheville-Pensacola rotation suggests, the bigger battery becomes binding. If my shoulder seasons start including hot-climate rotations (Pensacola summer, desert Southwest winter), the bigger battery becomes binding for AC duty cycle. The EVICTUS suspension matters more than I want to admit on long drives, where the better damping reduces fatigue. There's an argument that the Dark is the right buy specifically because it absorbs ambiguity in the use case.
+The honest answer to "what are you actually buying with the Dark premium" is: insurance against a use-case shift. If my retirement plan tilts toward more off-grid time than the Asheville-Pensacola rotation suggests, the bigger battery becomes binding. If my shoulder seasons start including hot-climate rotations (Pensacola summer, desert Southwest winter), the bigger battery becomes binding for AC duty cycle. The EVICTUS suspension matters more than I want to admit on long drives, where the better damping reduces fatigue. There's an argument that the Dark is the right buy specifically because it absorbs ambiguity in the use case.
 
-I'm not finalizing the decision in this post, because I haven't sat in the driver's seat yet and I haven't slept in the bed in a parking lot. Both of those are required steps. I'm narrowing to two SKUs: 2025 Classic MODE OG with rebate at roughly $174K out the door (call it $165K-$170K with a motivated dealer adding $5K-$8K beyond the rebate), or 2025 Dark MODE OG at $197K after rebate (call it $192K with the same kind of dealer push). The closest dealer is Bankston Motor Homes in Huntsville, about three hours from Canton and roughly 100 miles from the Storyteller factory in Birmingham, which makes it the closest factory-adjacent dealer in the Southeast.
+I'm not finalizing the decision in this post, because I haven't sat in the driver's seat yet and I haven't slept in the bed in a parking lot. Both of those are required steps. I'm narrowing to two SKUs: a 2025 Classic MODE OG at $172,321 after the factory rebate before taxes and fees, or a 2025 Dark MODE OG at $190,743 after rebate before taxes and fees. A motivated dealer could potentially move further; I'm treating that as upside rather than baseline. The closest dealer is Bankston Motor Homes in Huntsville, about three hours from Canton and roughly 100 miles from the Storyteller factory in Birmingham, which makes it the closest factory-adjacent dealer in the Southeast.
 
 A few things I'm not considering anymore:
 
@@ -152,9 +154,11 @@ A few things I'm not considering anymore:
 
 ## Closing
 
-The 79-inch test killed most of the camper van market for me, then surfaced a brand I hadn't taken seriously, then narrowed me to two SKUs separated by $23,000 and one engineering decision. That's a reasonable place to land on a six-week research arc. It's also a reminder that the binding constraint in any decision is rarely the one that gets the most attention. If you're 6'2" or taller and you're shopping a camper van, the bed length question has to come first. Ground clearance, battery capacity, and warranty length are all easier to upgrade aftermarket than to grow your bed by four inches.
+The 79-inch test killed most of the camper van market for me, then surfaced a brand I hadn't taken seriously, then narrowed me to two SKUs separated by about $18,000 and one engineering decision. That's a reasonable place to land on a six-week research arc. It's also a reminder that the binding constraint in any decision is rarely the one that gets the most attention. If you're 6'2" or taller and you're shopping a camper van, the bed length question has to come first. Ground clearance, battery capacity, and warranty length are all easier to upgrade aftermarket than to grow your bed by four inches.
 
 Go drive whatever you shortlist. Sit in the seats. Ask a current owner what their fifth year looked like. Storyteller forums are public, the regional chapters meet regularly, and the brand's owner community is unusually willing to talk shop with prospective buyers. The data only narrows the field. It doesn't pick the rig.
+
+If you're shorter than me, the exact cutoff changes, but the method doesn't. Pick your sleep-length floor first, then eliminate every van that misses it before you fall in love with cabinets, batteries, suspension, or Instagram photos. The painful part of camper van shopping is that the disqualifier is often boring. That doesn't make it optional.
 
 I'll be at Bankston Motor Homes in Huntsville with a tape measure soon.
 
@@ -166,4 +170,4 @@ I'll be at Bankston Motor Homes in Huntsville with a tape measure soon.
 2. $15,000 factory rebate on 2025 144" Classic/Dark/Beast MODE units through 04/30/2026. Excludes 2026 models, GXV products, Crew/Tour XL. Source: <https://www.storytelleroverland.com/pages/what-will-you-do-with-15k>
 3. 2026 Crew MODE XL bed dimensions: TroupeLounge 66.5" W x 75" L. LunarLoft RV Full size. Source: <https://www.storytelleroverland.com/pages/crew-mode>
 4. RV Trader macro pricing analysis. 163 Storyteller MODE units listed nationwide; pricing range $154,960-$334,021; average $224,968. Source: <https://www.rvtrader.com/Storyteller-Overland-Mode/rvs-for-sale>
-5. Dealer Monroney pricing data. 2026 Classic MODE OG MSRP $264,889 with $75,683 dealer discount to $189,206. 2026 Dark MODE OG MSRP $301,152 with $86,044 dealer discount to $215,108. Source: Johnson RV Sandy/Fife inventory listings.
+5. Dealer Monroney pricing data showing real MSRP versus see-through price. 2026 Classic MODE OG dealer-listed at $189,206 against Monroney $264,889 (Johnson RV Sandy/Fife). Storyteller's individual product page shows $192,206 for the same model; both prices are observable in the wild as dealers and the manufacturer don't always synchronize. 2026 Dark MODE OG dealer-listed at $215,108 against Monroney $301,152.
