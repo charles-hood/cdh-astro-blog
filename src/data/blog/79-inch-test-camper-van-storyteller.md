@@ -17,15 +17,19 @@ coverImage:
 
 <img src="/blog-images/79-inch-test-camper-van-storyteller/media/tape-measure-bed.png" alt="Tape measure stretched across a Sprinter camper van bed at sunset" style="width: 100%; height: auto; margin: 0 0 24px 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 
-When the bed is too short, nothing else on the spec sheet matters. I learned this the unproductive way, by spending most of [a buyer's guide](https://charleshood.net/posts/camper-van-buyers-guide-2026) ranking fourteen camper vans across thirty criteria before realizing I'd been treating sleep dimensions as a secondary attribute. They aren't. They're the binding constraint, the same way fresh tank capacity is the binding constraint for off-grid duration. If you can't sleep in the rig, you don't own a camper van. You own a parking pad with curtains.
+When the bed is too short, nothing else on the spec sheet matters.
+
+I learned this the unproductive way, by spending most of [a buyer's guide](https://charleshood.net/posts/camper-van-buyers-guide-2026) ranking fourteen camper vans across thirty criteria before realizing I'd been treating sleep dimensions as a secondary attribute. They aren't. They're the binding constraint, the same way fresh tank capacity is the binding constraint for off-grid duration. If you can't sleep in the rig, you don't own a camper van. You own a parking pad with curtains.
 
 This post is what happened when I reran the search with one hard rule: 79 inches of usable bed length, minimum. Width didn't matter. Weight ratings didn't matter. Off-road kit didn't matter. Just length. The reweighted analysis killed most of the market in roughly an afternoon and led me somewhere I genuinely hadn't expected to land.
 
 ## Why bed length
 
-I'm 6'3", which is 75 inches. The standard rule for camper van shopping is bed length equal to your height plus four inches, which puts my floor at 79 and the comfortable target somewhere north of 80. A 75-inch bed gets me in trouble immediately, because that's exactly my height with no margin for pillow, posture, or the slight curl most people adopt against the cold side of the bed. A 77-inch bed gets me a 2-inch tolerance, which is the kind of margin that disappears the first night after a long drive when I'm too tired to sleep perfectly straight.
+I'm 6'3", which is 75 inches. The standard rule for camper van shopping is bed length equal to your height plus four inches, which puts my floor at 79 and the comfortable target somewhere north of 80. A 75-inch bed gets me in trouble immediately, because that's exactly my height with no margin for pillow, posture, or the slight curl most people adopt in their sleep. A 77-inch bed gets me a 2-inch tolerance, which is the kind of margin that disappears the first night after a long drive when I'm too tired to sleep perfectly straight.
 
 Width matters too, but width is where camper vans win. A 56-inch transverse bed (queen-narrow) is fine for a couple if both people aren't strict back sleepers. The constraint that actually fails buyers is length, and it fails quietly because nobody walks into a dealership and tries to sleep in the bed before signing the paperwork. They sit on it. They photograph it. They imagine themselves in it. None of this catches the problem that they're 75 inches long and the bed is 76, which leaves a 1-inch tolerance for everything from posture to pillow.
+
+One width caveat worth flagging early. Several of the survivors below use 49" x 79" power-lift beds, which is essentially a generous twin. Two adults can technically share it, but only the way two adults technically share an airline row. If a partner travels with you even occasionally, 49" stops being a feature and starts being a structural problem with the floor plan. The Storyteller's 56" DreamWeaver doesn't fix this, but it gets the math closer to "couple-tolerable" than the Tiffin and Revel layouts do.
 
 The honest test for any camper van bed is: lie down in it as you would actually sleep, with a pillow, and see if your feet are touching the wall. If yes, your future self is going to hate you for the next decade.
 
@@ -43,7 +47,7 @@ The vans that did clear 79 inches all share a common engineering trick: side fla
 
 The vans that survived the 79-inch cutoff:
 
-**Tiffin GH1 Adventure Van** at 19'6", with a 49" x 79" power-lift bed and Mercedes Sprinter chassis. Owner forums and Adventure Van Expo observers report build quality declining post-Thor acquisition. Documented throttle limp-mode complaints and a 2.3/5 rating on PissedConsumer.
+**Tiffin GH1 Adventure Van** at 19'6", with a 49" x 79" power-lift bed and Mercedes Sprinter chassis. Build quality complaints have piled up post-Thor acquisition; Adventure Van Expo observers and owner forums both flag it. Documented throttle limp-mode complaints and a 2.3/5 rating on PissedConsumer.
 
 **Winnebago Revel 44E** at 19'7", with a 49" x 79" power-lift bed. Documented common-failure list at winnebagorevelforum.com including PEX leaks, drawer rails, awning recalls, and fuel pump issues. The 2026 MSRP is $261,808.
 
@@ -51,7 +55,7 @@ The vans that survived the 79-inch cutoff:
 
 **Storyteller Overland MODE Classic / Dark / Beast OG-XO variants** at 20', with a 56" x 79" DreamWeaver bed and Sprinter 144 AWD diesel. Birmingham, Alabama factory roughly 200 miles from my house in Canton, Georgia.
 
-That's the surviving field. Four platforms, and every single one of them clears my 79-inch floor by exactly zero. None of them gives me even a single inch of margin. At 6'3" I am literally filling the entire bed corner-to-corner in every production camper van currently sold in the US market with a long enough bed to fit me at all. That is the actual state of the segment.
+That's the surviving field. Four platforms, and the three I'm considering seriously (the Storyteller plus the Tiffin and Revel as nominal alternatives) all clear my 79-inch floor by exactly zero. None of them gives me even a single inch of margin. At 6'3" I am using essentially the entire bed in every production camper van currently sold in the US market with a long enough bed to fit me at all. That is the actual state of the segment.
 
 ## Re-running the weighted ranking
 
@@ -77,13 +81,13 @@ It also helps that Storyteller is the only one of the four where the spread betw
 
 ## Discovering Storyteller (or: how I'd been ignoring the right answer)
 
-I'd been vaguely aware of Storyteller for years without paying real attention. They came up in [the previous buyer's guide](https://charleshood.net/posts/camper-van-buyers-guide-2026) as the high-end overland pick for the Beast MODE archetype, but I'd treated them as a niche luxury option rather than as a serious comparison set. The 79-inch test changed that. With the Revel and Tiffin demoted on reliability grounds, Storyteller wasn't just one option. It was the only candidate in the field that combined a long bed, four-season build, real service network, and a reputation that survives close inspection.
+I'd been vaguely aware of Storyteller for years without paying real attention. They came up in [the previous buyer's guide](https://charleshood.net/posts/camper-van-buyers-guide-2026) as the high-end overland pick for the Beast MODE archetype, but I'd treated them as a niche luxury option rather than as a serious comparison set. The 79-inch test changed that. With the Revel and Tiffin demoted on reliability grounds, Storyteller wasn't just one option. It was the only candidate in the field where the long bed, the four-season build, the service network, and the reputation all held up simultaneously.
 
 A few things about the brand that surprised me when I dug in.
 
 The factory is in Birmingham, Alabama, a 200-mile drive from my house. That matters more than people realize. Service problems on a $190,000 vehicle are the most predictable category of pain in this entire purchase, and proximity to the factory shortens every recovery loop. Owners who live near Birmingham report walking warranty work in directly when their dealer can't get parts.
 
-Storyteller has roughly 2,000 vans on the road and a documented owner community organized into nine regional chapters. The forum sentiment is unusual. There are complaints, but the overall tone is closer to "I love this thing" than to the standard RV-forum tone of "everything is broken and the dealer won't return my calls." Expedition Portal called Storyteller "one of the best out-of-the-box options" and described owner enthusiasm as "cultish." I take "cultish" as a feature when it correlates with a low common-failure list and a manufacturer that takes ownership of issues.
+Storyteller has thousands of vans on the road and a documented owner community organized into nine regional chapters. The forum sentiment is unusual. There are complaints, but the overall tone is closer to "I love this thing" than to the standard RV-forum tone of "everything is broken and the dealer won't return my calls." Expedition Portal called Storyteller "one of the best out-of-the-box options" and described owner enthusiasm as "cultish." I take "cultish" as a feature when it correlates with a low common-failure list and a manufacturer that takes ownership of issues.
 
 The pricing model is half marketing, half real. Storyteller advertises "See-Through, No Haggle" pricing, which is partially fiction. The published prices on storytelleroverland.com are MSRP after a standard dealer discount baked in. Real Monroney sticker prices run $75,000-$86,000 above the website's "starting at" numbers. So when the website says a Classic MODE OG is $189,206, the actual sticker is $264,889, and the dealer is moving the unit at $189,206 with a $75,683 baked-in discount. Whether that's haggle-free or haggle-built-in depends on your priors. In practice, dealers are willing to discount further. I found a 2025 Beast MODE listed at $184,990 with the standing $15,000 factory rebate already applied, which represents an $8,000 discount beyond the website price.
 
@@ -134,7 +138,7 @@ The honest answer to "do I need the EVICTUS suspension" is: also probably not. I
 
 The honest answer to "what are you actually buying with the $23,000 Dark premium" is: insurance against a use-case shift. If my retirement plan tilts toward more off-grid time than the Asheville-Pensacola rotation suggests, the bigger battery becomes binding. If my shoulder seasons start including hot-climate rotations (Pensacola summer, desert Southwest winter), the bigger battery becomes binding for AC duty cycle. The EVICTUS suspension matters more than I want to admit on long drives, where the better damping reduces fatigue. There's an argument that the Dark is the right buy specifically because it absorbs ambiguity in the use case.
 
-I'm not finalizing the decision in this post, because I haven't sat in the driver's seat yet and I haven't slept in the bed in a parking lot. Both of those are required steps. I'm narrowing to two SKUs: 2025 Classic MODE OG with rebate at roughly $170,000 out the door, or 2025 Dark MODE OG with rebate at roughly $192,000 out the door. The closest dealer is Bankston Motor Homes in Huntsville, about three hours from Canton and roughly 100 miles from the Storyteller factory in Birmingham, which makes it the closest factory-adjacent dealer in the Southeast.
+I'm not finalizing the decision in this post, because I haven't sat in the driver's seat yet and I haven't slept in the bed in a parking lot. Both of those are required steps. I'm narrowing to two SKUs: 2025 Classic MODE OG with rebate at roughly $174K out the door (call it $165K-$170K with a motivated dealer adding $5K-$8K beyond the rebate), or 2025 Dark MODE OG at $197K after rebate (call it $192K with the same kind of dealer push). The closest dealer is Bankston Motor Homes in Huntsville, about three hours from Canton and roughly 100 miles from the Storyteller factory in Birmingham, which makes it the closest factory-adjacent dealer in the Southeast.
 
 A few things I'm not considering anymore:
 
