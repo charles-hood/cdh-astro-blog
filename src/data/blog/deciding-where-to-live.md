@@ -2,7 +2,7 @@
 author: "Charles Hood"
 pubDatetime: 2026-06-22T00:00:00.000Z
 title: "Deciding Where to Live Without Fooling Yourself"
-description: "I built a system to plan a seasonal, rent-and-rotate life. The hard part was never the data — it was not letting the tool tell me what I wanted to hear."
+description: "I built a system to plan a seasonal, rent-and-rotate life. The hard part was never the data. It was not letting the tool tell me what I wanted to hear."
 draft: false
 tags:
   - "Decision Making"
