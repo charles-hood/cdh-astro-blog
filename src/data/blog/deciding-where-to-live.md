@@ -46,6 +46,11 @@ It got worse when I let the thing run clean, no thumb on the scale. It kept runn
 
 There's a structure under both failures. For a decision like this one there's a tradeoff triangle. Great climate, a real cultural scene, affordable-and-low-tax. Pick two. You never get all three. The cheap places with good weather are dull. The lively ones with good weather cost a fortune. The lively, affordable ones are sweating out August or handing a third of your money to the state. Once the triangle is in front of you the hunt for a single best city dissolves, because which two corners you want depends on what you need that particular season. That's not a ranking. It's a menu.
 
+<figure style="margin: 2rem auto; max-width: 480px;">
+  <img src="/blog-images/deciding-where-to-live/media/fig-tradeoff-triangle.png" alt="A tradeoff triangle with corners for great climate, a real cultural scene, and cheap plus low-tax; the center reads 'pick two'" style="display: block; width: 100%; height: auto; background: #fff; padding: 16px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <figcaption style="text-align: center; font-size: 0.9rem; font-style: italic; opacity: 0.75; margin-top: 0.6rem;">The search for one best place dissolves once you can see why.</figcaption>
+</figure>
+
 So the first real decision was to quit pretending. The honest output isn't a pin on a map. It's a shape. A cluster of cities that all clear your actual requirements, none of them clearly beating the others, sorted different ways depending on what you're after on a given leg of the trip. A tool that hands you a shape and makes you choose looks less impressive than one that hands you a winner. It's also the one that isn't lying to you.
 
 ## Gates and weights
